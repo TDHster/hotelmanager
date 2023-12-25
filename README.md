@@ -20,9 +20,8 @@ Welcome to the Hotel Manager Telegram Bot repository! This project is designed t
 3. **Run the Bot:**
    - Execute the bot script to start managing room statuses and handling maintenance requests effortlessly.
 
-## Contribution
-
-Contributions and feedback are welcomed! If you have ideas for improvements, feature requests, or bug reports, please feel free to create issues or submit pull requests. Let's collaborate to make this Telegram Bot for Hotel Managers even better!
+## About
+Written in january 2023.
 
 
 
