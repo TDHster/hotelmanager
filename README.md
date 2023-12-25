@@ -1,9 +1,29 @@
-Telegram bot for hotel manager.
+# Hotel Manager Telegram Bot
 
-Function: free/occuped, need technitian, cleaning, electric service, plumbing specialist
+Welcome to the Hotel Manager Telegram Bot repository! This project is designed to streamline hotel management operations through an intuitive Telegram Bot interface. Seamlessly handle room status, maintenance requests, and essential services with ease.
 
+## Features
 
-Using SQL lite inside, need register telegram bot end place API key in .env file.
+- **Room Status:** Easily manage room statuses as either free or occupied, enabling quick updates and efficient room allocation.
+- **Maintenance Requests:** Promptly handle maintenance needs by signaling the necessity for a technician, cleaning, electric service, or plumbing specialist.
+- **Database Integration:** Utilizes SQLlite for efficient and structured data management, ensuring seamless handling of hotel operations data.
+- **Secure API Key Handling:** Ensures privacy and security by requiring registration of a Telegram bot and safeguarding the API key within a `.env` file.
+
+## Usage
+
+1. **Register a Telegram Bot:**
+   - Obtain a Telegram bot API key by registering a bot on the Telegram platform.
+
+2. **Set up the `.env` File:**
+   - Create a `.env` file and place the Telegram bot API key inside it.
+
+3. **Run the Bot:**
+   - Execute the bot script to start managing room statuses and handling maintenance requests effortlessly.
+
+## Contribution
+
+Contributions and feedback are welcomed! If you have ideas for improvements, feature requests, or bug reports, please feel free to create issues or submit pull requests. Let's collaborate to make this Telegram Bot for Hotel Managers even better!
+
 
 
 <img width="623" alt="image" src="https://github.com/TDHster/hotelmanager/assets/43290128/03400a47-e7e3-41d2-b627-0b7fe7a23562">
