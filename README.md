@@ -25,11 +25,18 @@ Written in january 2023.
 
 
 
+## Screenshots
+
+All rooms lists:
+
 <img width="623" alt="image" src="https://github.com/TDHster/hotelmanager/assets/43290128/03400a47-e7e3-41d2-b627-0b7fe7a23562">
 
-<img width="623" alt="image" src="https://github.com/TDHster/hotelmanager/assets/43290128/15102e89-03d0-48e6-825c-7008c7ee3325">
+List of free rooms:
 
 <img width="611" alt="image" src="https://github.com/TDHster/hotelmanager/assets/43290128/d386bc30-a474-4928-b71c-b87e22431021">
+
+
+Room properties:
 
 <img width="444" alt="image" src="https://github.com/TDHster/hotelmanager/assets/43290128/5d6e3706-774c-4d22-893c-e91e3924a240">
 
